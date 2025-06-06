@@ -35,7 +35,7 @@ The dataset consists of two CSV files: `True.csv` and `Fake.csv`, containing lab
 ## 📊 Results
 
 *Include this after training the model*
-- Accuracy: `xx.xx%`
+- Accuracy: `98.22%`
 - Precision / Recall / F1-score
 
 ## 📌 How to Run
